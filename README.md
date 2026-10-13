@@ -6,7 +6,21 @@
 🐸 **[Follow $TAD](https://x.com/tadpolebase)**  
 🤖 **[Telegram bot](https://t.me/TADTracker_bot)**
 
-## Latest update — 9 October 2026
+## Latest update — 14 October 2026
+
+**[BaseTrack Scout Assistant — Chrome beta 0.1.9](updates/2026-10-14-scout-assistant.md)**
+
+A Chrome side panel for new BaseStonk and Stonks coins, with ticker/name/CA search, available market stats, recorded charts and optional launch alerts.
+
+- Translucent website alerts with the coin logo, name and a Chart button.
+- Direct launchpad checks alongside the BaseTrackFees catalog.
+- Local caching, original source dates and recovery when a provider fails.
+- Light and dark themes, pinned coins and configurable filters.
+- Submitted to the Chrome Web Store; awaiting review, with automatic publication enabled after approval.
+
+The announcement includes the exact API endpoints, browser APIs, refresh intervals and validation details.
+
+## Previous update — 9 October 2026
 
 - One visual design across BaseStonk and Stonks.
 - A scrolling Trending strip with the top eight coins by market cap on each platform.
